@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'nuclearfont';
-    src: url('nuclearfont-webfont.eot');
-    src: url('nuclearfont-webfont.eot?#iefix') format('embedded-opentype'),
-         url('nuclearfont-webfont.woff2') format('woff2'),
-         url('nuclearfont-webfont.woff') format('woff'),
-         url('nuclearfont-webfont.ttf') format('truetype'),
-         url('nuclearfont-webfont.svg#nuclearfont') format('svg');
+    src: url('../font/nuclearfont-webfont.eot');
+    src: url('../font/nuclearfont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/nuclearfont-webfont.woff2') format('woff2'),
+         url('../font/nuclearfont-webfont.woff') format('woff'),
+         url('../font/nuclearfont-webfont.ttf') format('truetype'),
+         url('../font/nuclearfont-webfont.svg#nuclearfont') format('svg');
     font-weight: normal;
     font-style: normal;
 
