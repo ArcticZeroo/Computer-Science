@@ -5,13 +5,13 @@
 		<link rel="stylesheet" type="text/css" href="content.css"/>
 		<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-		<link rel="icon" href="favicon.ico"/>
+		<link rel="icon" href="images/favicon.ico"/>
 		<meta name="theme-color" content="#2196F3"></meta>
 	</head>
 	<body>
 		<div id="header">
 			<div id="title">Nuclear Throne Version Repository</div>
-			<div id="subtitle"><a href="http://store.steampowered.com/app/242680/" target="_blank"><img src="steamicon.png" width="40" height="40"/></a></div>
+			<div id="subtitle"><a href="http://store.steampowered.com/app/242680/" target="_blank"><img src="images/steamicon.png" width="40" height="40"/></a></div>
 		</div>
 		<div id="versions">
 			<?php
